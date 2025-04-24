@@ -9,6 +9,7 @@ import shutil
 import stat
 
 #GitHubのテスト
+#GitHub変更テスト
 
 #定数の定義
 # INIファイルのフォルダ名
