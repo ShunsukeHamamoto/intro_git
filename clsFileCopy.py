@@ -9,7 +9,7 @@ import shutil
 import stat
 
 #GitHubのテスト
-
+#変更
 #定数の定義
 # INIファイルのフォルダ名
 INI_FOLDER_NAME = 'Setting/01_FTP_File'
